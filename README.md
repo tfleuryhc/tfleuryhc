@@ -30,3 +30,11 @@ I used to code when I was younger and fell off around high school. Now I'm getti
   <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/tfleuryhc"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
   </ul>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/tfleuryhc"><img src="https://github-readme-stats.vercel.app/api?username=tfleuryhc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tfleuryhc's GitHub stats" /></a>
+
+<a href="https://github.com/tfleuryhc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfleuryhc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
